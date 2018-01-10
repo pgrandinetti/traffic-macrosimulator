@@ -1,6 +1,6 @@
 # Traffic macro-simulator
 
-This is a MatLab package that can be used to create and simulate road networks objects described by a macroscopic dynamics. The code comes entirely from the legacy code developed during the Ph.D. of the author; all technical details can be checked in the Ph.D. thesis available [here](https://www.dropbox.com/s/9m2ldonki5x6lfq/ControlLargeScaleTraffic.pdf).
+This is a MatLab package that can be used to create and simulate road networks objects described by a macroscopic dynamics. The code comes entirely from the legacy code developed during the Ph.D. of the author; all technical details can be checked in the Ph.D. thesis available [here](https://www.dropbox.com/s/vm7excebyjc7d7x/controlLargeScaleNetwork.pdf?dl=0).
 
 ## Reproducibility of this work
 
